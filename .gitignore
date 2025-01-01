@@ -1,0 +1,17 @@
+# Ignore Maven build directories
+/target/
+
+# Ignore IDE specific files (e.g., Eclipse, IntelliJ, etc.)
+.settings/
+.project
+.classpath
+
+# Ignore IntelliJ IDEA project files
+*.iml
+
+# Ignore the test-report folder generated during test runs
+/test-report/
+
+# Ignore logs and other temporary files
+*.log
+*.tmp
