@@ -118,9 +118,6 @@ After running the tests, you will find the following reports:
 - **Cucumber HTML & JSON Reports** in the `target` directory.
 - **Custom DOCX Reports** for formal documentation, can be found in the `test-report` directory.
 
-## Contributing
-
-Contributions are welcome! Feel free to fork the repository, submit issues, or create pull requests to improve or extend the framework. If you have any feature requests or find bugs, please open an issue.
 
 ## License
 
