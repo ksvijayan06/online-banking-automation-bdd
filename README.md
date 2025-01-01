@@ -64,7 +64,7 @@ The project is organized to ensure ease of navigation and scalability. Below is 
 4. **`XYZ_Bank.stepDefinitions`**: Contains step definitions that map the Gherkin steps in the feature files to Java methods.
 5. **`XYZ_Bank.utils`**: Includes utility classes for functions that can be reused across multiple tests.
 6. **`featureFile`**: Contains Cucumber feature files that define test scenarios in Gherkin syntax.
-7. **`TestCase`**: Includes any external data or test case-related files needed for the tests.
+7. **`TestCase`**: Test case-related files needed for the tests.
 
 ## Getting Started:
 
